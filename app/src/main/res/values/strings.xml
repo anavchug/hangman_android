@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-final-project</string>
+    <string name="win">You won!</string>
+    <string name="lose">Sorry you lost better luck next time.</string>
+    <string name="game_message">Would you like to play again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
